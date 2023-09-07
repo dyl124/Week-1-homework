@@ -1,1 +1,2 @@
-# Week-1-homework
+Project tittle: Week 1 homeowrk.
+Updated/edited: Vscode 
